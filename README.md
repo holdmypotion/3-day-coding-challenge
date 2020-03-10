@@ -14,4 +14,19 @@ In this challenge, you all would have to make a mini project in 3 days and share
 
 3) Your projects will be evaluated by industry experts and would be graded accordingly  
 
+4)     How to take upload your files
+    Step 1 
+           Make your Github account 
+    Step 2 
+          Go to link https://github.com/fbdevcchd/3-day-coding-challenge or https://tinyurl.com/vd8fclq 
+           they both are same
+    step 3 
+          Go to right side corner and press on fork 
+    Step  4 
+          Create on upload files 
+                     And upload files as name_projectname_day1
+    Step 5 
+          Click on commit changes  
+
+
 # Happy Coding 
