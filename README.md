@@ -8,7 +8,7 @@ In this challenge, you all would have to make a mini project in 3 days and share
 
 # Rules and Regulation   
 
-1) You need to upload your progess daily on this github Respo by making a seprate folder for yourself with your name_projecetname 
+1) You need to upload your progess daily on this github Respo by making a seprate file for yourself with your name_projecetname_day1 
 
 2) Your projects shouldbe developed within these 3 days starting 11.3.2020 and ending 13.3.2020 
 
